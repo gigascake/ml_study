@@ -1,3 +1,5 @@
+# ( 머신러닝 & 딥러닝 ) Study  Jupyter Notebook #
+
 ## Package Plan ##
 
 ######  added / updated specs:
